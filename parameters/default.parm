@@ -1,0 +1,13 @@
+version: 3.1.0
+user_limit: 700
+past: 3
+future: 4
+time_step: 6
+store_dir: ./store
+log_path: ./logs
+log_file: iAnimate_main.log
+img_format: .png
+fps: 10
+bitrate: 1000
+delay: 20
+loop: 0
